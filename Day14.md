@@ -1,0 +1,7 @@
+<img width="624" height="636" alt="Screenshot 2026-06-14 at 2 56 13 PM" src="https://github.com/user-attachments/assets/d30534d8-ffbd-44dc-9296-0cea4f01e6a8" />
+<img width="624" height="636" alt="Screenshot 2026-06-14 at 2 56 20 PM" src="https://github.com/user-attachments/assets/99c503e1-e821-49eb-ba55-8966aa6c1f50" />
+<img width="624" height="636" alt="Screenshot 2026-06-14 at 2 56 30 PM" src="https://github.com/user-attachments/assets/469c162b-815e-4da8-bc7c-7c21c5bfd701" />
+<img width="838" height="376" alt="Screenshot 2026-06-14 at 2 41 47 PM" src="https://github.com/user-attachments/assets/d2ae508a-4964-4bc5-9c73-c31a20163ce2" />
+Krishnkant, here's the honest picture: your resume has a genuinely strong foundation — dual degree, hackathons, state-level sports, and real AI exposure — but it's currently underselling you badly. The biggest problem is the experience section, which lists workshops instead of showcasing what you actually built.
+The single most impactful thing you can do right now is fully describe your PSYCHEPATH project: what problem it solves, what technologies you used (Python? TensorFlow? Flask?), and any result you measured. That one change will move your resume from "average fresher" to "worth interviewing."
+Use the buttons above to get rewritten sections, or ask me anything specific — like help with your skills list, a cover letter, or preparing for a data science interview.
